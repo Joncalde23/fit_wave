@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-
+/* creación de estilos para el header mobile first */
 @media (max-width: 380px){
     .header {
         background-color: var(--color-primario);
